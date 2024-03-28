@@ -1,0 +1,22 @@
+.block {
+    padding: 20px;
+    width: 300px;
+    height: 250px;
+    border: 1px solid #0da2d5;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+
+}
+
+.comment {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    border: 1px solid #0da2d5;
+    margin: 10px 0;
+    width: 500px;
+    height: 150px;
+}
